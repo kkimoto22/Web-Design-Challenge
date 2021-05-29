@@ -1,0 +1,36 @@
+.box {
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 800;
+    color: #fff;
+  }
+  
+  .skyblue {
+    background: rgb(117, 176, 196);
+    text-align: center;
+    text-size-adjust: auto;
+  }
+/*   
+  .purple {
+    background: rebeccapurple;
+  }
+  
+  .red {
+    background: indianred;
+  } */
+
+
+.body {
+    background-color: rgb(235, 238, 243);
+}
+
+.table th {
+   text-align: center; 
+}
+
+.table {
+   margin: auto;
+   width: 50% !important; 
+}
+
