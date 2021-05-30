@@ -7,7 +7,7 @@
   }
   
   .skyblue {
-    background: rgb(117, 176, 196);
+    background: rgb(194, 33, 28);
     text-align: center;
     text-size-adjust: auto;
   }
@@ -37,4 +37,13 @@
 img.comp-img {
     width: 395px;
     height: 395px;
+}
+
+img.main_fig {
+    width: 395px;
+    height: 395px;
+}
+
+nav.navbar {
+    background-color: rgb(112, 226, 220) !important;
 }
