@@ -34,3 +34,7 @@
    width: 50% !important; 
 }
 
+img.comp-img {
+    width: 395px;
+    height: 395px;
+}
